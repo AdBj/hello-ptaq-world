@@ -1,0 +1,1 @@
+jmeter -n -t F:\PTaQ\5.Stress\non-gui-get-perf.jmx -l .\startresults.jtl
